@@ -16,7 +16,9 @@ function initialize() {
   var jsonData = "data/ncVacationData.json";
   map.data.loadGeoJson(jsonData);
   
-  var infoWindow = new google.maps.InfoWindow();
+  var infoWindow = new google.maps.InfoWindow({
+    pixelOffset: new google.maps.Size(0,20),
+  });
   
   // Set mouseover event for each feature.
   map.data.addListener('click', function(event) {
