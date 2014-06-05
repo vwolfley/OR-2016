@@ -4,9 +4,9 @@ function initialize() {
     zoom: 9,
     enter: new google.maps.LatLng(34.708, -77.959),
     zoomControl: true,
-    zoomControlOptions: {
-        style: google.maps.ZoomControlStyle.SMALL
-    }
+    // zoomControlOptions: {
+    //     style: google.maps.ZoomControlStyle.SMALL
+    // }
   };
   
   google.maps.visualRefresh=true;
