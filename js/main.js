@@ -10,8 +10,7 @@ function initialize() {
   };
   
   google.maps.visualRefresh=true;
-  map = new google.maps.Map(document.getElementById('map-canvas'),
-      mapOptions);
+  map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
 
   // Load a GeoJSON from the same server as our demo.
   var jsonData = "data/ncVacationData.json";
@@ -21,7 +20,15 @@ function initialize() {
   
   // Set mouseover event for each feature.
   map.data.addListener('click', function(event) {
-    content = event.feature.getProperty('Name');
+    name = event.feature.getProperty("Name");
+    address = event.feature.getProperty("Address");
+    fam = event.feature.getProperty("Family");
+    total = event.feature.getProperty("Family" + "Name");
+    console.log(total);
+
+    content = name + "</br>" + address + "</br>" + fam;
+    console.log(content);
+    
     infoWindow.setContent(content);
     
     var anchor = new google.maps.MVCObject();
