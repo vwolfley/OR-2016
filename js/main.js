@@ -20,7 +20,6 @@ function initialize() {
   
   // Set mouseover event for each feature.
   map.data.addListener('click', function(event) {
-    name = event.feature.getProperty("Name");
     fam = event.feature.getProperty("Family");
     name = event.feature.getProperty("Name");
     address = event.feature.getProperty("Address");
