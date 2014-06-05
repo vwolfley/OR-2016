@@ -10,6 +10,16 @@ function initialize() {
 
   // Load a GeoJSON from the same server as our demo.
   map.data.loadGeoJson('data/ncVacationData.json');
+  
+  // listen for click events
+  map.data.addListener("click", function(event) {
+    // show an infowindow on click
+    infowindow.setContent('<div style="line-height:1.35;overflow:hidden;white-space:nowrap;">' event.feature.getName() "<br>" + event.feature.getAddress() + "</div>");
+
+    var anchor = new google.maps.MVCObject();
+        anchor.set("position",event.latLng);
+        infoWindow.open(map,anchor);
+  });
 
 }
 
