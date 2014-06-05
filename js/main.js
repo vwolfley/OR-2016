@@ -17,18 +17,19 @@ function initialize() {
   var jsonData = "data/ncVacationData.json";
   map.data.loadGeoJson(jsonData);
   
+  var infoWindow = new google.maps.InfoWindow();
+  
   // Set mouseover event for each feature.
   map.data.addListener('click', function(event) {
     content = event.feature.getProperty('Name');
     infoWindow.setContent(content);
-    infoWindow.open(map);
     
     var anchor = new google.maps.MVCObject();
-				anchor.set("position",event.latLng);
-				infoWindow.open(map,anchor);
+	anchor.set("position",event.latLng);
+	infoWindow.open(map,anchor);
   });
 
-  var infoWindow = new google.maps.InfoWindow();
+  
 
 }
 
