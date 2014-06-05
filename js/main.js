@@ -21,15 +21,15 @@ function initialize() {
   // Set mouseover event for each feature.
   map.data.addListener('click', function(event) {
     name = event.feature.getProperty("Name");
-    address = event.feature.getProperty("Address");
     fam = event.feature.getProperty("Family");
-    total = event.feature.getProperty("Family" + "Name");
-    console.log(total);
-
-    content = name + "</br>" + address + "</br>" + fam;
-    console.log(content);
+    name = event.feature.getProperty("Name");
+    address = event.feature.getProperty("Address");
+    city = event.feature.getProperty("City");
+    phone = event.feature.getProperty("Phone");
+    web = event.feature.getProperty("Website");
     
-    infoWindow.setContent(content);
+    content = fam + "</br>" + name + "</br>" + address + "</br>" + city + "</br>" + phone + "</br>" + web;
+    console.log(content);
     
     var anchor = new google.maps.MVCObject();
 	anchor.set("position",event.latLng);
