@@ -22,7 +22,7 @@ function initialize() {
   });
 
   var infoWindow = new google.maps.InfoWindow({
-    content: content
+    // content: content
   });
 
 }
