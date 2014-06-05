@@ -13,6 +13,15 @@ function initialize() {
   map.data.loadGeoJson(jsonData);
   
   var infoWindow = new google.maps.InfoWindow();
+  
+  for (i = 0; i < jsonData.length; i++) {
+    var data = jsonData[i]
+    }
+
+    google.maps.event.addListener("click", function(data) {
+    infoWindow.setContent(data.Name);
+    infoWindow.open(map);
+    });
 
 }
 
