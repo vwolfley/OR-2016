@@ -18,7 +18,7 @@ function initialize() {
   map.data.loadGeoJson(jsonData);
   
   // Set mouseover event for each feature.
-  map.data.addListener('mouseover', function(event) {
+  map.data.addListener('click', function(event) {
     content = event.feature.getProperty('Name');
     infoWindow.setContent(content);
     infoWindow.open(map);
