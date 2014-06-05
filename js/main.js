@@ -17,7 +17,7 @@ function initialize() {
   map.data.loadGeoJson(jsonData);
   
   var infoWindow = new google.maps.InfoWindow({
-    pixelOffset: new google.maps.Size(0,-10),
+    pixelOffset: new google.maps.Size(0,-25),
   });
   
   // Set mouseover event for each feature.
