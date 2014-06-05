@@ -13,12 +13,12 @@ function initialize() {
   map.data.loadGeoJson(jsonData);
   
   var infoWindow = new google.maps.InfoWindow({
-    content: event.feature.getProperty('Name');
+    content: content
   });
 
   // Set mouseover event for each feature.
   map.data.addListener('mouseover', function(event) {
-    
+    content = event.feature.getProperty('Name');
   });
 
 }
