@@ -20,11 +20,11 @@ function initialize() {
   // Set mouseover event for each feature.
   map.data.addListener('mouseover', function(event) {
     content = event.feature.getProperty('Name');
+    infoWindow.setContent(content);
+    infoWindow.open(map);
   });
 
-  var infoWindow = new google.maps.InfoWindow({
-    // content: content
-  });
+  var infoWindow = new google.maps.InfoWindow();
 
 }
 
