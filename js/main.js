@@ -22,6 +22,10 @@ function initialize() {
     content = event.feature.getProperty('Name');
     infoWindow.setContent(content);
     infoWindow.open(map);
+    
+    var anchor = new google.maps.MVCObject();
+				anchor.set("position",event.latLng);
+				infoWindow.open(map,anchor);
   });
 
   var infoWindow = new google.maps.InfoWindow();
