@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Key of Sea",
+        "Name": "Rockwoods @ Key of Sea",
         "Address": "1314 N Topsail Dr",
         "City": "Surf City, NC",
         "Family": "Rockwoods",
@@ -23,7 +23,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Ava's Excape",
+        "Name": "Scotts @ Ava's Escape",
         "Address": "1313 N Topsail Dr",
         "City": "Surf City, NC",
         "Family": "Scotts",
@@ -42,7 +42,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Peaceful Cottage",
+        "Name": "Rapiers @ Peaceful Cottage",
         "Address": "1119 N Shore Dr",
         "City": "Surf City, NC",
         "Family": "Rapiers",
@@ -61,7 +61,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Starboard",
+        "Name": "Greg Sherwoods @ Starboard",
         "Address": "1426 N New River Dr",
         "City": "Surf City, NC",
         "Family": "Greg Sherwoods",
@@ -80,7 +80,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Blistered",
+        "Name": "Allens @ Blistered",
         "Address": "4008 4th St",
         "City": "Surf City, NC",
         "Family": "Allens",
@@ -99,7 +99,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Sunshine Trio",
+        "Name": "Smiths @ Sunshine Trio",
         "Address": "513 N Shore Dr",
         "City": "Surf City, NC",
         "Family": "Smiths",
@@ -119,7 +119,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Our Catch",
+        "Name": "Wolfleys @ Our Catch",
         "Address": "1513-B N New River Inlet Dr",
         "City": "Surf City, NC",
         "Family": "Wolfleys",
@@ -140,7 +140,7 @@
       "properties": {
         "Name": "LDS Church",
         "Ward": "Hampstead Ward",
-        "time": "10am",
+        "Time": "10am",
         "Address": "102 Deerfield Dr",
         "City": "Hampstead, NC",
         "Zip": "28443-2134",
@@ -219,7 +219,7 @@
         "Name": "Battleship North Carolina",
         "Address": "1 Battleship Rd NE",
         "City": "Wilmington, NC",
-        "Phone": "(910)251-5797",
+        "Phone": "(910) 251-5797",
         "Website": "http://www.battleshipnc.com/",
         "Family": "",
         "Zip": ""
@@ -238,7 +238,7 @@
         "Name": "North Carolina Aquarium @ Fort Fisher",
         "Address": "900 Loggerhead Rd",
         "City": "Kure Beach, NC",
-        "Phone": "(910)458-8257",
+        "Phone": "(910) 458-8257",
         "Website": "http://www.ncaquariums.com/fort-fisher",
         "Family": "",
         "Zip": ""
@@ -257,7 +257,7 @@
         "Name": "Fort Fisher Historic Museum",
         "Address": "1610 S Fort Fisher Blvd",
         "City": "Kure Beach, NC",
-        "Phone": "(910)458-5538",
+        "Phone": "(910) 458-5538",
         "Website": "http://www.nchistoricsites.org/fisher/fisher.htm",
         "Family": "",
         "Zip": ""
@@ -276,7 +276,7 @@
         "Name": "Topsail Island Historical Society",
         "Address": "720 Channel Boulevard",
         "City": "Topsail Beach, NC",
-        "Phone": "(910)328-8663",
+        "Phone": "(910) 328-8663",
         "Website": "http://topsailhistoricalsociety.org/",
         "Family": "",
         "Zip": ""
@@ -314,7 +314,7 @@
         "Name": "Missiles and More Museum",
         "Address": "720 Channel Boulevard",
         "City": "Topsail Beach, NC",
-        "Phone": "(910)328-8663",
+        "Phone": "(910) 328-8663",
         "Website": "http://missilesandmoremuseum.org/",
         "Family": "",
         "Zip": ""
