@@ -7,7 +7,10 @@
         "Name": "Key of Sea",
         "Address": "1314 N Topsail Dr",
         "City": "Surf City, NC",
-        "Family": "Rockwoods"
+        "Family": "Rockwoods",
+        "Phone": "",
+        "Zip": "",
+        "Website": ""
       },
       "geometry": {
         "type": "Point",
@@ -23,7 +26,10 @@
         "Name": "Ava's Excape",
         "Address": "1313 N Topsail Dr",
         "City": "Surf City, NC",
-        "Family": "Scotts"
+        "Family": "Scotts",
+        "Phone": "",
+        "Zip": "",
+        "Website": ""
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +45,10 @@
         "Name": "Peaceful Cottage",
         "Address": "1119 N Shore Dr",
         "City": "Surf City, NC",
-        "Family": "Rapiers"
+        "Family": "Rapiers",
+        "Phone": "",
+        "Zip": "",
+        "Website": ""
       },
       "geometry": {
         "type": "Point",
@@ -55,7 +64,10 @@
         "Name": "Starboard",
         "Address": "1426 N New River Dr",
         "City": "Surf City, NC",
-        "Family": "Greg Sherwoods"
+        "Family": "Greg Sherwoods",
+        "Phone": "",
+        "Zip": "",
+        "Website": ""
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +83,10 @@
         "Name": "Blistered",
         "Address": "4008 4th St",
         "City": "Surf City, NC",
-        "Family": "Allens"
+        "Family": "Allens",
+        "Phone": "",
+        "Zip": "",
+        "Website": ""
       },
       "geometry": {
         "type": "Point",
@@ -87,12 +102,16 @@
         "Name": "Sunshine Trio",
         "Address": "513 N Shore Dr",
         "City": "Surf City, NC",
-        "Family": "Smiths"
+        "Family": "Smiths",
+        "Phone": "",
+        "Zip": "",
+        "Website": "",
+        "time": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-         -77.53657400608063,
+          -77.53657400608063,
           34.43095868786036
         ]
       }
@@ -103,12 +122,15 @@
         "Name": "Our Catch",
         "Address": "1513-B N New River Inlet Dr",
         "City": "Surf City, NC",
-        "Family": "Wolfleys"
+        "Family": "Wolfleys",
+        "Phone": "",
+        "Zip": "",
+        "Website": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-           -77.52098768949509,
+          -77.52098768949509,
           34.441479761192475
         ]
       }
@@ -120,9 +142,11 @@
         "Ward": "Hampstead Ward",
         "time": "10am",
         "Address": "102 Deerfield Dr",
-        "City": "Hampstead",
-        "State": "NC",
-        "Zip": "28443-2134"
+        "City": "Hampstead, NC",
+        "Zip": "28443-2134",
+        "Phone": "",
+        "Family": "",
+        "Website": ""
       },
       "geometry": {
         "type": "Point",
@@ -137,11 +161,11 @@
       "properties": {
         "Name": "LDS Raleigh North Carolina Temple",
         "Address": "574 Bryan Dr",
-        "City": "Apex",
-        "State": "NC",
+        "City": "Apex, NC",
         "Zip": "27502-4127",
         "Phone": "(919) 362-4135",
-        "Website": "https://www.lds.org/church/temples/raleigh-north-carolina"
+        "Website": "https://www.lds.org/church/temples/raleigh-north-carolina",
+        "Family": ""
       },
       "geometry": {
         "type": "Point",
@@ -156,9 +180,11 @@
       "properties": {
         "Name": "Karen Beasley Sea Turtle Rescue",
         "Address": "302 Tortuga Dr",
-        "City": "Surf City",
+        "City": "Surf City, NC",
         "Phone": "(910) 329-0222",
-        "Website": "http://www.seaturtlehospital.org/"
+        "Website": "http://www.seaturtlehospital.org/",
+        "Family": "",
+        "Zip": ""
       },
       "geometry": {
         "type": "Point",
@@ -173,9 +199,11 @@
       "properties": {
         "Name": "Poplar Grove Plantation",
         "Address": "10200 U.S. Hwy 17",
-        "City": "Wilmington",
+        "City": "Wilmington, NC",
         "Phone": "(910) 686-9518",
-        "Website": "http://www.poplargrove.org/"
+        "Website": "http://www.poplargrove.org/",
+        "Family": "",
+        "Zip": ""
       },
       "geometry": {
         "type": "Point",
@@ -190,9 +218,11 @@
       "properties": {
         "Name": "Battleship North Carolina",
         "Address": "1 Battleship Rd NE",
-        "City": "Wilmington",
+        "City": "Wilmington, NC",
         "Phone": "(910)251-5797",
-        "Website": "http://www.battleshipnc.com/"
+        "Website": "http://www.battleshipnc.com/",
+        "Family": "",
+        "Zip": ""
       },
       "geometry": {
         "type": "Point",
@@ -207,9 +237,11 @@
       "properties": {
         "Name": "North Carolina Aquarium @ Fort Fisher",
         "Address": "900 Loggerhead Rd",
-        "City": "Kure Beach",
+        "City": "Kure Beach, NC",
         "Phone": "(910)458-8257",
-        "Website": "http://www.ncaquariums.com/fort-fisher"
+        "Website": "http://www.ncaquariums.com/fort-fisher",
+        "Family": "",
+        "Zip": ""
       },
       "geometry": {
         "type": "Point",
@@ -224,9 +256,11 @@
       "properties": {
         "Name": "Fort Fisher Historic Museum",
         "Address": "1610 S Fort Fisher Blvd",
-        "City": "Kure Beach",
+        "City": "Kure Beach, NC",
         "Phone": "(910)458-5538",
-        "Website": "http://www.nchistoricsites.org/fisher/fisher.htm"
+        "Website": "http://www.nchistoricsites.org/fisher/fisher.htm",
+        "Family": "",
+        "Zip": ""
       },
       "geometry": {
         "type": "Point",
@@ -241,9 +275,11 @@
       "properties": {
         "Name": "Topsail Island Historical Society",
         "Address": "720 Channel Boulevard",
-        "City": "Topsail Beach",
+        "City": "Topsail Beach, NC",
         "Phone": "(910)328-8663",
-        "Website": "http://topsailhistoricalsociety.org/"
+        "Website": "http://topsailhistoricalsociety.org/",
+        "Family": "",
+        "Zip": ""
       },
       "geometry": {
         "type": "Point",
@@ -258,9 +294,11 @@
       "properties": {
         "Name": "The Childrens Museum of Wilmington",
         "Address": "116 Orange St",
-        "City": "Wilmington",
+        "City": "Wilmington, NC",
         "Phone": "(910) 254-3534",
-        "Website": "http://www.playwilmington.org/index/page/index/"
+        "Website": "http://www.playwilmington.org/index/page/index/",
+        "Family": "",
+        "Zip": ""
       },
       "geometry": {
         "type": "Point",
@@ -275,9 +313,11 @@
       "properties": {
         "Name": "Missiles and More Museum",
         "Address": "720 Channel Boulevard",
-        "City": "Topsail Beach",
+        "City": "Topsail Beach, NC",
         "Phone": "(910)328-8663",
-        "Website": "http://missilesandmoremuseum.org/"
+        "Website": "http://missilesandmoremuseum.org/",
+        "Family": "",
+        "Zip": ""
       },
       "geometry": {
         "type": "Point",
@@ -292,9 +332,11 @@
       "properties": {
         "Name": "Cape Fear Museum",
         "Address": "814 Market St",
-        "City": "Wilmington",
+        "City": "Wilmington, NC",
         "Phone": "(910) 798-4370",
-        "Website": "http://capefearmuseum.com/"
+        "Website": "http://capefearmuseum.com/",
+        "Family": "",
+        "Zip": ""
       },
       "geometry": {
         "type": "Point",
@@ -309,9 +351,11 @@
       "properties": {
         "Name": "Wilmington Railroad Museum",
         "Address": "505 Nutt St #6",
-        "City": "Wilmington",
+        "City": "Wilmington, NC",
         "Phone": "(910) 763-2634",
-        "Website": "http://www.wrrm.org/"
+        "Website": "http://www.wrrm.org/",
+        "Family": "",
+        "Zip": ""
       },
       "geometry": {
         "type": "Point",
@@ -326,9 +370,11 @@
       "properties": {
         "Name": "University of North Carolina Wilmington",
         "Address": "601 S College Rd",
-        "City": "Wilmington",
+        "City": "Wilmington, NC",
         "Phone": "(910) 962-3000",
-        "Website": "http://uncw.edu/"
+        "Website": "http://uncw.edu/",
+        "Family": "",
+        "Zip": ""
       },
       "geometry": {
         "type": "Point",
@@ -343,9 +389,11 @@
       "properties": {
         "Name": "Costco of Wilmington",
         "Address": "5351 Gingerwood Dr",
-        "City": "Wilmington",
+        "City": "Wilmington, NC",
         "Phone": "(910) 798-3252",
-        "Website": "http://www.costco.com/"
+        "Website": "http://www.costco.com/",
+        "Family": "",
+        "Zip": ""
       },
       "geometry": {
         "type": "Point",
@@ -360,9 +408,11 @@
       "properties": {
         "Name": "Costco of Raleight",
         "Address": "2838 Wake Forest Rd",
-        "City": "Raleigh",
+        "City": "Raleigh, NC",
         "Phone": "(919) 755-2801",
-        "Website": "http://www.costco.com/"
+        "Website": "http://www.costco.com/",
+        "Family": "",
+        "Zip": ""
       },
       "geometry": {
         "type": "Point",
@@ -377,9 +427,11 @@
       "properties": {
         "Name": "Sams Club of Wilmington",
         "Address": "412 S College Rd",
-        "City": "Wilmington",
+        "City": "Wilmington, NC",
         "Phone": "(910) 799-9808",
-        "Website": "http://www.samsclub.com/sams/homepage.jsp"
+        "Website": "http://www.samsclub.com/sams/homepage.jsp",
+        "Family": "",
+        "Zip": ""
       },
       "geometry": {
         "type": "Point",
@@ -394,9 +446,11 @@
       "properties": {
         "Name": "Sams Club of Jacksonville",
         "Address": "1170 Western Blvd",
-        "City": "Jacksonville",
+        "City": "Jacksonville, NC",
         "Phone": "(910) 346-2148",
-        "Website": "http://www.samsclub.com/sams/homepage.jsp"
+        "Website": "http://www.samsclub.com/sams/homepage.jsp",
+        "Family": "",
+        "Zip": ""
       },
       "geometry": {
         "type": "Point",
@@ -411,9 +465,11 @@
       "properties": {
         "Name": "Carolina Beach Boardwalk",
         "Address": "Carolina Beach Ave S. & Harper Ave",
-        "City": "Carolina Beach",
+        "City": "Carolina Beach, NC",
         "Phone": "(910) 458-8434",
-        "Website": "http://www.visitcarolinabeachnc.com/things-to-do/carolina-beach-boardwalk"
+        "Website": "http://www.visitcarolinabeachnc.com/things-to-do/carolina-beach-boardwalk",
+        "Family": "",
+        "Zip": ""
       },
       "geometry": {
         "type": "Point",
@@ -423,14 +479,16 @@
         ]
       }
     },
-     {
+    {
       "type": "Feature",
       "properties": {
         "Name": "Goodwill",
         "Address": "709 S Kerr Ave",
-        "City": "Wilmington,",
+        "City": "Wilmington, NC",
         "Phone": "(910) 791-2764",
-        "Website": ""
+        "Website": "",
+        "Family": "",
+        "Zip": ""
       },
       "geometry": {
         "type": "Point",
@@ -445,9 +503,12 @@
       "properties": {
         "Name": "Goodwill",
         "Address": "5662 Carolina Beach Rd",
-        "City": "Wilmington,",
+        "City": "Wilmington, NC",
         "Phone": "(910) 794-9650",
-        "Website": ""
+        "Website": "",
+        "Family": "",
+        "Zip": "",
+        "time": ""
       },
       "geometry": {
         "type": "Point",
@@ -462,9 +523,11 @@
       "properties": {
         "Name": "Goodwill",
         "Address": "1113 Western Blvd",
-        "City": "Jacksonville",
+        "City": "Jacksonville, NC",
         "Phone": "(910) 455-2025",
-        "Website": ""
+        "Website": "",
+        "Family": "",
+        "Zip": ""
       },
       "geometry": {
         "type": "Point",
@@ -479,9 +542,11 @@
       "properties": {
         "Name": "Souvenir Shop Gator",
         "Address": "13705 NC Hwy. 50",
-        "City": "Surf City",
+        "City": "Surf City, NC",
         "Phone": "(910) 329-0241",
-        "Website": "http://www.roadsideamerica.com/tip/9904"
+        "Website": "http://www.roadsideamerica.com/tip/9904",
+        "Family": "",
+        "Zip": ""
       },
       "geometry": {
         "type": "Point",
@@ -496,9 +561,11 @@
       "properties": {
         "Name": "Giant Shark",
         "Address": "Hwy 210",
-        "City": "Sneads Ferry",
+        "City": "Sneads Ferry, NC",
         "Phone": "(910) 327-1222",
-        "Website": "http://www.roadsideamerica.com/tip/30533"
+        "Website": "http://www.roadsideamerica.com/tip/30533",
+        "Family": "",
+        "Zip": ""
       },
       "geometry": {
         "type": "Point",
