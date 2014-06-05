@@ -28,8 +28,9 @@ function initialize() {
     web = event.feature.getProperty("Website");
     
     content = name + "</br>" + fam + "</br>" + address + "</br>" + city + "</br>" + phone + "</br>" + web;
-    console.log(content);
     
+    infoWindow.setContent(content);
+
     var anchor = new google.maps.MVCObject();
 	anchor.set("position",event.latLng);
 	infoWindow.open(map,anchor);
