@@ -172,7 +172,7 @@
         "City": "Apex, NC",
         "Zip": "27502-4127",
         "Phone": "(919) 362-4135",
-        "Website": "https://www.lds.org/church/temples/raleigh-north-carolina",
+        "Website": "<a href='https://www.lds.org/church/temples/raleigh-north-carolina'>",
         "Family": "",
         "color": "coral"
       },
@@ -191,7 +191,7 @@
         "Address": "302 Tortuga Dr",
         "City": "Surf City, NC",
         "Phone": "(910) 329-0222",
-        "Website": "http://www.seaturtlehospital.org/",
+        "Website": "<a href='http://www.seaturtlehospital.org/'>",
         "Family": "",
         "Zip": "",
         "color": "blueviolet"
@@ -211,7 +211,7 @@
         "Address": "10200 U.S. Hwy 17",
         "City": "Wilmington, NC",
         "Phone": "(910) 686-9518",
-        "Website": "http://www.poplargrove.org/",
+        "Website": "<a href='http://www.poplargrove.org/'>",
         "Family": "",
         "Zip": "",
         "color": "blueviolet"
@@ -231,7 +231,7 @@
         "Address": "1 Battleship Rd NE",
         "City": "Wilmington, NC",
         "Phone": "(910) 251-5797",
-        "Website": "http://www.battleshipnc.com/",
+        "Website": "<a href='http://www.battleshipnc.com/'>",
         "Family": "",
         "Zip": "",
         "color": "blueviolet"
@@ -251,7 +251,7 @@
         "Address": "900 Loggerhead Rd",
         "City": "Kure Beach, NC",
         "Phone": "(910) 458-8257",
-        "Website": "http://www.ncaquariums.com/fort-fisher",
+        "Website": "<a href='http://www.ncaquariums.com/fort-fisher'>",
         "Family": "",
         "Zip": "",
         "color": "blueviolet"
@@ -271,7 +271,7 @@
         "Address": "1610 S Fort Fisher Blvd",
         "City": "Kure Beach, NC",
         "Phone": "(910) 458-5538",
-        "Website": "http://www.nchistoricsites.org/fisher/fisher.htm",
+        "Website": "<a href='http://www.nchistoricsites.org/fisher/fisher.htm'>",
         "Family": "",
         "Zip": "",
         "color": "blueviolet"
@@ -291,7 +291,7 @@
         "Address": "720 Channel Boulevard",
         "City": "Topsail Beach, NC",
         "Phone": "(910) 328-8663",
-        "Website": "http://topsailhistoricalsociety.org/",
+        "Website": "<a href='http://topsailhistoricalsociety.org/'>",
         "Family": "",
         "Zip": "",
         "color": "blueviolet"
@@ -311,7 +311,7 @@
         "Address": "116 Orange St",
         "City": "Wilmington, NC",
         "Phone": "(910) 254-3534",
-        "Website": "http://www.playwilmington.org/index/page/index/",
+        "Website": "<a href='http://www.playwilmington.org/index/page/index/'>",
         "Family": "",
         "Zip": "",
         "color": "blueviolet"
@@ -331,7 +331,7 @@
         "Address": "720 Channel Boulevard",
         "City": "Topsail Beach, NC",
         "Phone": "(910) 328-8663",
-        "Website": "http://missilesandmoremuseum.org/",
+        "Website": "<a href='http://missilesandmoremuseum.org/'>",
         "Family": "",
         "Zip": "",
         "color": "blueviolet"
@@ -351,7 +351,7 @@
         "Address": "814 Market St",
         "City": "Wilmington, NC",
         "Phone": "(910) 798-4370",
-        "Website": "http://capefearmuseum.com/",
+        "Website": "<a href='http://capefearmuseum.com/'>",
         "Family": "",
         "Zip": "",
         "color": "blueviolet"
@@ -371,7 +371,7 @@
         "Address": "505 Nutt St #6",
         "City": "Wilmington, NC",
         "Phone": "(910) 763-2634",
-        "Website": "http://www.wrrm.org/",
+        "Website": "<a href='http://www.wrrm.org/'>",
         "Family": "",
         "Zip": "",
         "color": "blueviolet"
@@ -391,7 +391,7 @@
         "Address": "601 S College Rd",
         "City": "Wilmington, NC",
         "Phone": "(910) 962-3000",
-        "Website": "http://uncw.edu/",
+        "Website": "<a href='http://uncw.edu/'>",
         "Family": "",
         "Zip": "",
         "color": "blueviolet"
@@ -411,7 +411,7 @@
         "Address": "5351 Gingerwood Dr",
         "City": "Wilmington, NC",
         "Phone": "(910) 798-3252",
-        "Website": "http://www.costco.com/",
+        "Website": "<a href='http://www.costco.com/'>",
         "Family": "",
         "Zip": "",
         "color": "red"
@@ -431,7 +431,7 @@
         "Address": "2838 Wake Forest Rd",
         "City": "Raleigh, NC",
         "Phone": "(919) 755-2801",
-        "Website": "http://www.costco.com/",
+        "Website": "<a href'http://www.costco.com/'>",
         "Family": "",
         "Zip": "",
         "color": "red"
@@ -451,7 +451,7 @@
         "Address": "412 S College Rd",
         "City": "Wilmington, NC",
         "Phone": "(910) 799-9808",
-        "Website": "http://www.samsclub.com/sams/homepage.jsp",
+        "Website": "<a href='http://www.samsclub.com/sams/homepage.jsp'>",
         "Family": "",
         "Zip": "",
         "color": "green"
@@ -471,7 +471,7 @@
         "Address": "1170 Western Blvd",
         "City": "Jacksonville, NC",
         "Phone": "(910) 346-2148",
-        "Website": "http://www.samsclub.com/sams/homepage.jsp",
+        "Website": "<a href='http://www.samsclub.com/sams/homepage.jsp'>",
         "Family": "",
         "Zip": "",
         "color": "green"
@@ -491,7 +491,7 @@
         "Address": "Carolina Beach Ave S. & Harper Ave",
         "City": "Carolina Beach, NC",
         "Phone": "(910) 458-8434",
-        "Website": "http://www.visitcarolinabeachnc.com/things-to-do/carolina-beach-boardwalk",
+        "Website": "<a href='http://www.visitcarolinabeachnc.com/things-to-do/carolina-beach-boardwalk'>",
         "Family": "",
         "Zip": "",
         "color": "blueviolet"
@@ -572,7 +572,7 @@
         "Address": "13705 NC Hwy. 50",
         "City": "Surf City, NC",
         "Phone": "(910) 329-0241",
-        "Website": "http://www.roadsideamerica.com/tip/9904",
+        "Website": "<a href='http://www.roadsideamerica.com/tip/9904'>",
         "Family": "",
         "Zip": "",
         "color": "blueviolet"
@@ -592,7 +592,7 @@
         "Address": "Hwy 210",
         "City": "Sneads Ferry, NC",
         "Phone": "(910) 327-1222",
-        "Website": "http://www.roadsideamerica.com/tip/30533",
+        "Website": "<a href='http://www.roadsideamerica.com/tip/30533'>",
         "Family": "",
         "Zip": "",
         "color": "blueviolet"
