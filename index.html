@@ -13,9 +13,7 @@
         <link rel="stylesheet" href="css/main.css">
         
         <style>
-        #wrapper {
-            position: relative;
-        }
+        
         #banner {
             position: absolute;
             top: 10px;
@@ -24,6 +22,7 @@
             padding-left: 30px;
             z-index: 50;
             background-color: #33ccff;
+            opacity: 0.75;
             /*color: #ffffff;*/
             /*font-style: "Comic Sans MS", cursive, sans-serif;*/
         }
@@ -38,19 +37,15 @@
         <![endif]-->
 
         <!-- Add your site or application content here -->
-
-        <div id="wrapper">
-
-            <div id="banner">
-                <h1>Sherwood Family Reunion 2014</h1>
-                <h3>Topsail Island, North Carolina</h3>
-            </div>
-
-            <div id="map-canvas"></div>
         
+        <div id="map-canvas"></div>
+
+        <div id="banner">
+            <h1>Sherwood Family Reunion 2014</h1>
+            <h3>Topsail Island, North Carolina</h3>
         </div>
-    
-        
+
+            
 
         <script src="https://maps.googleapis.com/maps/api/js?v=3.16"></script>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
