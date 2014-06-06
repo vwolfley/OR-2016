@@ -91,12 +91,25 @@ textarea {
    Author's custom styles
    ========================================================================== */
 html, body, #map-canvas {
-        height: 100%;
-        margin: 0px;
-        padding: 0px
-      }
+  height: 100%;
+  margin: 0px;
+  padding: 0px
+}
 
-
+#banner {
+   position: absolute;
+   top: 10px;
+   width: 550px;
+   height: auto;
+   padding-left: 30px;
+   z-index: 50;
+   background-color: #33ccff;
+   opacity: .75;
+   border-radius: 0 25px 25px 0;
+   color: #000099;
+   line-height: 0.8;
+   font-family: "Comic Sans MS", cursive, sans-serif;
+}
 
 
 
