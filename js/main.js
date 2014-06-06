@@ -25,9 +25,17 @@ function initialize() {
   
   // Add some style
   map.data.setStyle(function(feature) {
-  	return({
-  		fillColor: feature.getProperty("color")
-  	});
+    var color = event.feature.getProperty("Color");
+    if(color == "blue"){
+      return{
+        marker.setIcon('http://maps.google.com/mapfiles/ms/icons/blue-dot.png');
+      }
+    },
+    if(color == "blueviolet"){
+      return{
+        marker.setIcon('http://maps.google.com/mapfiles/ms/icons/purple-dot.png');
+    }
+    
   });
   
   var infoWindow = new google.maps.InfoWindow({
