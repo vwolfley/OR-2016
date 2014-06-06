@@ -572,7 +572,7 @@
         "Address": "13705 NC Hwy. 50",
         "City": "Surf City, NC",
         "Phone": "(910) 329-0241",
-        "Website": "<a href='http://www.roadsideamerica.com/tip/9904'>",
+        "Website": "www.roadsideamerica.com/tip/9904",
         "Family": "",
         "Zip": "",
         "color": "blueviolet"
@@ -592,7 +592,7 @@
         "Address": "Hwy 210",
         "City": "Sneads Ferry, NC",
         "Phone": "(910) 327-1222",
-        "Website": "http://www.roadsideamerica.com/tip/30533",
+        "Website": "href='http://www.roadsideamerica.com/tip/30533'",
         "Family": "",
         "Zip": "",
         "color": "blueviolet"
