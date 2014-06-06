@@ -10,7 +10,8 @@
         "Family": "Rockwoods",
         "Phone": "",
         "Zip": "",
-        "Website": ""
+        "Website": "",
+        "color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -29,7 +30,8 @@
         "Family": "Scotts",
         "Phone": "",
         "Zip": "",
-        "Website": ""
+        "Website": "",
+        "color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -48,7 +50,8 @@
         "Family": "Rapiers",
         "Phone": "",
         "Zip": "",
-        "Website": ""
+        "Website": "",
+        "color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -67,7 +70,8 @@
         "Family": "Greg Sherwoods",
         "Phone": "",
         "Zip": "",
-        "Website": ""
+        "Website": "",
+        "color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -86,7 +90,8 @@
         "Family": "Allens",
         "Phone": "",
         "Zip": "",
-        "Website": ""
+        "Website": "",
+        "color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -106,7 +111,8 @@
         "Phone": "",
         "Zip": "",
         "Website": "",
-        "time": ""
+        "time": "",
+        "color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -125,7 +131,8 @@
         "Family": "Wolfleys",
         "Phone": "",
         "Zip": "",
-        "Website": ""
+        "Website": "",
+        "color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -146,7 +153,8 @@
         "Zip": "28443-2134",
         "Phone": "",
         "Family": "",
-        "Website": ""
+        "Website": "",
+        "color": "coral"
       },
       "geometry": {
         "type": "Point",
@@ -165,7 +173,8 @@
         "Zip": "27502-4127",
         "Phone": "(919) 362-4135",
         "Website": "https://www.lds.org/church/temples/raleigh-north-carolina",
-        "Family": ""
+        "Family": "",
+        "color": "coral"
       },
       "geometry": {
         "type": "Point",
@@ -184,7 +193,8 @@
         "Phone": "(910) 329-0222",
         "Website": "http://www.seaturtlehospital.org/",
         "Family": "",
-        "Zip": ""
+        "Zip": "",
+        "color": "blueviolet"
       },
       "geometry": {
         "type": "Point",
@@ -203,7 +213,8 @@
         "Phone": "(910) 686-9518",
         "Website": "http://www.poplargrove.org/",
         "Family": "",
-        "Zip": ""
+        "Zip": "",
+        "color": "blueviolet"
       },
       "geometry": {
         "type": "Point",
@@ -222,7 +233,8 @@
         "Phone": "(910) 251-5797",
         "Website": "http://www.battleshipnc.com/",
         "Family": "",
-        "Zip": ""
+        "Zip": "",
+        "color": "blueviolet"
       },
       "geometry": {
         "type": "Point",
@@ -241,7 +253,8 @@
         "Phone": "(910) 458-8257",
         "Website": "http://www.ncaquariums.com/fort-fisher",
         "Family": "",
-        "Zip": ""
+        "Zip": "",
+        "color": "blueviolet"
       },
       "geometry": {
         "type": "Point",
@@ -260,7 +273,8 @@
         "Phone": "(910) 458-5538",
         "Website": "http://www.nchistoricsites.org/fisher/fisher.htm",
         "Family": "",
-        "Zip": ""
+        "Zip": "",
+        "color": "blueviolet"
       },
       "geometry": {
         "type": "Point",
@@ -279,7 +293,8 @@
         "Phone": "(910) 328-8663",
         "Website": "http://topsailhistoricalsociety.org/",
         "Family": "",
-        "Zip": ""
+        "Zip": "",
+        "color": "blueviolet"
       },
       "geometry": {
         "type": "Point",
@@ -298,7 +313,8 @@
         "Phone": "(910) 254-3534",
         "Website": "http://www.playwilmington.org/index/page/index/",
         "Family": "",
-        "Zip": ""
+        "Zip": "",
+        "color": "blueviolet"
       },
       "geometry": {
         "type": "Point",
@@ -317,7 +333,8 @@
         "Phone": "(910) 328-8663",
         "Website": "http://missilesandmoremuseum.org/",
         "Family": "",
-        "Zip": ""
+        "Zip": "",
+        "color": "blueviolet"
       },
       "geometry": {
         "type": "Point",
@@ -336,7 +353,8 @@
         "Phone": "(910) 798-4370",
         "Website": "http://capefearmuseum.com/",
         "Family": "",
-        "Zip": ""
+        "Zip": "",
+        "color": "blueviolet"
       },
       "geometry": {
         "type": "Point",
@@ -355,7 +373,8 @@
         "Phone": "(910) 763-2634",
         "Website": "http://www.wrrm.org/",
         "Family": "",
-        "Zip": ""
+        "Zip": "",
+        "color": "blueviolet"
       },
       "geometry": {
         "type": "Point",
@@ -374,7 +393,8 @@
         "Phone": "(910) 962-3000",
         "Website": "http://uncw.edu/",
         "Family": "",
-        "Zip": ""
+        "Zip": "",
+        "color": "blueviolet"
       },
       "geometry": {
         "type": "Point",
@@ -393,7 +413,8 @@
         "Phone": "(910) 798-3252",
         "Website": "http://www.costco.com/",
         "Family": "",
-        "Zip": ""
+        "Zip": "",
+        "color": "red"
       },
       "geometry": {
         "type": "Point",
@@ -412,7 +433,8 @@
         "Phone": "(919) 755-2801",
         "Website": "http://www.costco.com/",
         "Family": "",
-        "Zip": ""
+        "Zip": "",
+        "color": "red"
       },
       "geometry": {
         "type": "Point",
@@ -431,7 +453,8 @@
         "Phone": "(910) 799-9808",
         "Website": "http://www.samsclub.com/sams/homepage.jsp",
         "Family": "",
-        "Zip": ""
+        "Zip": "",
+        "color": "green"
       },
       "geometry": {
         "type": "Point",
@@ -450,7 +473,8 @@
         "Phone": "(910) 346-2148",
         "Website": "http://www.samsclub.com/sams/homepage.jsp",
         "Family": "",
-        "Zip": ""
+        "Zip": "",
+        "color": "green"
       },
       "geometry": {
         "type": "Point",
@@ -469,7 +493,8 @@
         "Phone": "(910) 458-8434",
         "Website": "http://www.visitcarolinabeachnc.com/things-to-do/carolina-beach-boardwalk",
         "Family": "",
-        "Zip": ""
+        "Zip": "",
+        "color": "blueviolet"
       },
       "geometry": {
         "type": "Point",
@@ -488,7 +513,8 @@
         "Phone": "(910) 791-2764",
         "Website": "",
         "Family": "",
-        "Zip": ""
+        "Zip": "",
+        "color": "darkblue"
       },
       "geometry": {
         "type": "Point",
@@ -508,7 +534,8 @@
         "Website": "",
         "Family": "",
         "Zip": "",
-        "time": ""
+        "time": "",
+        "color": "darkblue"
       },
       "geometry": {
         "type": "Point",
@@ -527,7 +554,8 @@
         "Phone": "(910) 455-2025",
         "Website": "",
         "Family": "",
-        "Zip": ""
+        "Zip": "",
+        "color": "darkblue"
       },
       "geometry": {
         "type": "Point",
@@ -546,7 +574,8 @@
         "Phone": "(910) 329-0241",
         "Website": "http://www.roadsideamerica.com/tip/9904",
         "Family": "",
-        "Zip": ""
+        "Zip": "",
+        "color": "blueviolet"
       },
       "geometry": {
         "type": "Point",
@@ -565,7 +594,8 @@
         "Phone": "(910) 327-1222",
         "Website": "http://www.roadsideamerica.com/tip/30533",
         "Family": "",
-        "Zip": ""
+        "Zip": "",
+        "color": "blueviolet"
       },
       "geometry": {
         "type": "Point",
