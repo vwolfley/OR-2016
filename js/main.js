@@ -43,7 +43,7 @@ function initialize() {
     phone = event.feature.getProperty("Phone");
     web = event.feature.getProperty("Website");
     
-    content = "<strong>" + name + "</strong>" + "</br>" + address + "</br>" + city + "</br>" + phone + "</br>" + "<a>" + web + "</a>";
+    content = "<strong>" + name + "</strong>" + "</br>" + address + "</br>" + city + "</br>" + phone + "</br>" + "<a href='>" + web + "'</a>";
     
     infoWindow.setContent(content);
 
