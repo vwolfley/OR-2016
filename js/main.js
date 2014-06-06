@@ -28,12 +28,12 @@ function initialize() {
     var color = feature.getProperty("Color");
     if(color == "blue"){
       return{
-        setIcon('http://maps.google.com/mapfiles/ms/icons/blue-dot.png')
+        icon: 'http://maps.google.com/mapfiles/ms/icons/blue-dot.png'
       }
     },
     if(color == "blueviolet"){
       return{
-        setIcon('http://maps.google.com/mapfiles/ms/icons/purple-dot.png')
+        icon: 'http://maps.google.com/mapfiles/ms/icons/purple-dot.png'
     }
     
   });
