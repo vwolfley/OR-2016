@@ -34,6 +34,7 @@ function initialize() {
     if(color == "blueviolet"){
       return{
         icon: 'http://maps.google.com/mapfiles/ms/icons/purple-dot.png'
+      }
     }
     
   });
