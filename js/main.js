@@ -30,7 +30,7 @@ function initialize() {
       return{
         icon: 'http://maps.google.com/mapfiles/ms/icons/blue-dot.png'
       }
-    },
+    }
     if(color == "blueviolet"){
       return{
         icon: 'http://maps.google.com/mapfiles/ms/icons/purple-dot.png'
