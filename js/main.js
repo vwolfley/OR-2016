@@ -1,8 +1,8 @@
 var map;
 function initialize() {
   var mapOptions = {
-    zoom: 9,
-    center: new google.maps.LatLng(34.708, -77.959),
+    zoom: 10,
+    center: new google.maps.LatLng(34.395, -77.336),
     zoomControl: true,
     zoomControlOptions: {
         style: google.maps.ZoomControlStyle.SMALL
