@@ -55,5 +55,11 @@ function initialize() {
   
 
 }
-
+// Load google map
 google.maps.event.addDomListener(window, 'load', initialize);
+// resize google map on screen change
+google.maps.event.addDomListener(window, "resize", function() {
+ var center = map.getCenter();
+ google.maps.event.trigger(map, "resize");
+ map.setCenter(center); 
+});
