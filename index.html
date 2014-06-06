@@ -13,7 +13,11 @@
         <link rel="stylesheet" href="css/main.css">
         
         <style>
+        #wrapper {
+            position: relative;
+        }
         #banner {
+            position: absolute;
             top: 10px;
             width: 550px;
             height: 100px;
@@ -35,13 +39,16 @@
 
         <!-- Add your site or application content here -->
 
-            <span id="banner">
+        <div id="wrapper">
+
+            <div id="banner">
                 <h1>Sherwood Family Reunion 2014</h1>
                 <h3>Topsail Island, North Carolina</h3>
-            </span>
-        
+            </div>
+
             <div id="map-canvas"></div>
-            
+        
+        </div>
     
         
 
