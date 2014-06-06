@@ -11,7 +11,7 @@
         "Phone": "",
         "Zip": "",
         "Website": "",
-        "color": "blue"
+        "color": "green"
       },
       "geometry": {
         "type": "Point",
@@ -31,7 +31,7 @@
         "Phone": "",
         "Zip": "",
         "Website": "",
-        "color": "blue"
+        "color": "green"
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +51,7 @@
         "Phone": "",
         "Zip": "",
         "Website": "",
-        "color": "blue"
+        "color": "green"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +71,7 @@
         "Phone": "",
         "Zip": "",
         "Website": "",
-        "color": "blue"
+        "color": "green"
       },
       "geometry": {
         "type": "Point",
@@ -91,7 +91,7 @@
         "Phone": "",
         "Zip": "",
         "Website": "",
-        "color": "blue"
+        "color": "green"
       },
       "geometry": {
         "type": "Point",
@@ -112,7 +112,7 @@
         "Zip": "",
         "Website": "",
         "time": "",
-        "color": "blue"
+        "color": "green"
       },
       "geometry": {
         "type": "Point",
@@ -132,7 +132,7 @@
         "Phone": "",
         "Zip": "",
         "Website": "",
-        "color": "blue"
+        "color": "green"
       },
       "geometry": {
         "type": "Point",
@@ -154,7 +154,7 @@
         "Phone": "",
         "Family": "",
         "Website": "",
-        "color": "coral"
+        "color": "orange"
       },
       "geometry": {
         "type": "Point",
@@ -174,7 +174,7 @@
         "Phone": "(919) 362-4135",
         "Website": "https://www.lds.org/church/temples/raleigh-north-carolina",
         "Family": "",
-        "color": "coral"
+        "color": "orange"
       },
       "geometry": {
         "type": "Point",
@@ -194,7 +194,7 @@
         "Website": "http://www.seaturtlehospital.org/",
         "Family": "",
         "Zip": "",
-        "color": "blueviolet"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -214,7 +214,7 @@
         "Website": "http://www.poplargrove.org/",
         "Family": "",
         "Zip": "",
-        "color": "blueviolet"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -234,7 +234,7 @@
         "Website": "http://www.battleshipnc.com/",
         "Family": "",
         "Zip": "",
-        "color": "blueviolet"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -254,7 +254,7 @@
         "Website": "http://www.ncaquariums.com/fort-fisher",
         "Family": "",
         "Zip": "",
-        "color": "blueviolet"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -274,7 +274,7 @@
         "Website": "http://www.nchistoricsites.org/fisher/fisher.htm",
         "Family": "",
         "Zip": "",
-        "color": "blueviolet"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -294,7 +294,7 @@
         "Website": "http://topsailhistoricalsociety.org/",
         "Family": "",
         "Zip": "",
-        "color": "blueviolet"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -314,7 +314,7 @@
         "Website": "http://www.playwilmington.org/index/page/index/",
         "Family": "",
         "Zip": "",
-        "color": "blueviolet"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -334,7 +334,7 @@
         "Website": "http://missilesandmoremuseum.org/",
         "Family": "",
         "Zip": "",
-        "color": "blueviolet"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -354,7 +354,7 @@
         "Website": "http://capefearmuseum.com/",
         "Family": "",
         "Zip": "",
-        "color": "blueviolet"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -374,7 +374,7 @@
         "Website": "http://www.wrrm.org/",
         "Family": "",
         "Zip": "",
-        "color": "blueviolet"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -393,7 +393,7 @@
         "Phone": "(910) 962-3000",
         "Website": "http://uncw.edu/",
         "Zip": "",
-        "color": "blueviolet"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -453,7 +453,7 @@
         "Website": "http://www.samsclub.com/sams/homepage.jsp",
         "Family": "",
         "Zip": "",
-        "color": "green"
+        "color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -473,7 +473,7 @@
         "Website": "http://www.samsclub.com/sams/homepage.jsp",
         "Family": "",
         "Zip": "",
-        "color": "green"
+        "color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -493,7 +493,7 @@
         "Website": "http://www.visitcarolinabeachnc.com/things-to-do/carolina-beach-boardwalk",
         "Family": "",
         "Zip": "",
-        "color": "blueviolet"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -513,7 +513,7 @@
         "Website": "",
         "Family": "",
         "Zip": "",
-        "color": "darkblue"
+        "color": "yellow"
       },
       "geometry": {
         "type": "Point",
@@ -534,7 +534,7 @@
         "Family": "",
         "Zip": "",
         "time": "",
-        "color": "darkblue"
+        "color": "yellow"
       },
       "geometry": {
         "type": "Point",
@@ -554,7 +554,7 @@
         "Website": "",
         "Family": "",
         "Zip": "",
-        "color": "darkblue"
+        "color": "yellow"
       },
       "geometry": {
         "type": "Point",
@@ -574,7 +574,7 @@
         "Website": "http://www.roadsideamerica.com/tip/9904",
         "Family": "",
         "Zip": "",
-        "color": "blueviolet"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -594,7 +594,7 @@
         "Website": "http://www.roadsideamerica.com/tip/30533",
         "Family": "",
         "Zip": "",
-        "color": "blueviolet"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
