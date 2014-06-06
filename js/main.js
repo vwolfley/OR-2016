@@ -16,7 +16,7 @@ function initialize() {
     }
   };
   
-  google.maps.visualRefresh=true;
+  //google.maps.visualRefresh=true;
   map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
 
   // Load a GeoJSON from the same server as our demo.
