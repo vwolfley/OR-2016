@@ -16,6 +16,13 @@ function initialize() {
   var jsonData = "data/ncVacationData.json";
   map.data.loadGeoJson(jsonData);
   
+  // Add some style
+  map.data.setStyle(function(feature) {
+  	return({
+  		fillColor: feature.getProperty("color")
+  	});
+  });
+  
   var infoWindow = new google.maps.InfoWindow({
     pixelOffset: new google.maps.Size(0,-25),
   });
