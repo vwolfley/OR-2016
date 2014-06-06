@@ -25,7 +25,7 @@ function initialize() {
   
   // Add some style
   map.data.setStyle(function(feature) {
-    var color = feature.getProperty("Color");
+    var color = feature.getProperty("color");
     if(color == "blue"){
       return{
         icon: 'http://maps.google.com/mapfiles/ms/icons/blue-dot.png'
