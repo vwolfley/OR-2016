@@ -26,14 +26,34 @@ function initialize() {
   // Add some style
   map.data.setStyle(function(feature) {
     var color = feature.getProperty("color");
-    if(color == "blue"){
+    if(color === "green"){
+      return{
+        icon: 'http://maps.google.com/mapfiles/ms/icons/green-dot.png'
+      }
+    }
+    if(color === "purple"){
+      return{
+        icon: 'http://maps.google.com/mapfiles/ms/icons/purple-dot.png'
+      }
+    }
+    if(color === "blue"){
       return{
         icon: 'http://maps.google.com/mapfiles/ms/icons/blue-dot.png'
       }
     }
-    if(color == "blueviolet"){
+    if(color === "yellow"){
       return{
-        icon: 'http://maps.google.com/mapfiles/ms/icons/purple-dot.png'
+        icon: 'http://maps.google.com/mapfiles/ms/icons/yellow-dot.png'
+      }
+    }
+    if(color === "red"){
+      return{
+        icon: 'http://maps.google.com/mapfiles/ms/icons/red-dot.png'
+      }
+    }
+    if(color === "orange"){
+      return{
+        icon: 'http://maps.google.com/mapfiles/ms/icons/orange-dot.png'
       }
     }
     
