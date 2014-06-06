@@ -5,7 +5,13 @@ function initialize() {
     center: new google.maps.LatLng(34.399, -77.755),
     zoomControl: true,
     zoomControlOptions: {
-        style: google.maps.ZoomControlStyle.SMALL
+        style: google.maps.ZoomControlStyle.SMALL,
+        position: google.maps.ControlPosition.RIGHT_TOP
+    },
+    panControl: false,
+    streetViewControl: true,
+    streetViewControlOptions: {
+    	position: google.maps.ControlPosition.RIGHT_TOP
     }
   };
   
