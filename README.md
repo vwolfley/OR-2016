@@ -2,7 +2,7 @@
 
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 [![Semver](http://img.shields.io/SemVer/2.0.0.png)](http://semver.org/spec/v2.0.0.html)
-[![dependencies](https://david-dm.org/vwolfley/MyProject.png)](https://david-dm.org/vwolfley/vwolfley.github.io/)
+[![dependencies](https://david-dm.org/vwolfley/MyProject.png)](https://david-dm.org/vwolfley/vwolfley.github.io/NC-Google.Map)
 
 North Carolina Google Map
 
@@ -10,7 +10,7 @@ Building a Google map with geojson.
 
 #### Version
 
-#### `0.1.0 - 06/04/2014`
+#### `0.2.0 - 06/06/2014`
 
 ### Keywords
 
