@@ -76,7 +76,6 @@ function initialize() {
     web = event.feature.getProperty("Website");
 
     content = "<strong>" + name + "</strong>" + "</br>" + address + "</br>" + city + "</br>" + phone + "</br>" + "<a href='" + web + "'>Website</a>";
-
     infoWindow.setContent(content);
 
     var anchor = new google.maps.MVCObject();
@@ -87,6 +86,7 @@ function initialize() {
 }
 // Load google map
 google.maps.event.addDomListener(window, "load", initialize);
+
 // resize google map on screen change
 google.maps.event.addDomListener(window, "resize", function() {
  var center = map.getCenter();
