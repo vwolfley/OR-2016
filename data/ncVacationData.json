@@ -154,12 +154,7 @@
         "Phone": "",
         "Family": "",
         "Website": "",
-        "color": "orange",
-        "time": "10am",
-        "Address": "102 Deerfield Dr",
-        "City": "Hampstead",
-        "State": "NC",
-        "Zip": "28443-2134"
+        "color": "orange"
       },
       "geometry": {
         "type": "Point",
@@ -179,12 +174,7 @@
         "Phone": "(919) 362-4135",
         "Website": "https://www.lds.org/church/temples/raleigh-north-carolina",
         "Family": "",
-        "color": "orange",
-        "City": "Apex",
-        "State": "NC",
-        "Zip": "27502-4127",
-        "Phone": "(919) 362-4135",
-        "Website": "https://www.lds.org/church/temples/raleigh-north-carolina"
+        "color": "orange"
       },
       "geometry": {
         "type": "Point",
@@ -204,10 +194,7 @@
         "Website": "http://www.seaturtlehospital.org/",
         "Family": "",
         "Zip": "",
-        "color": "purple",
-        "City": "Surf City",
-        "Phone": "(910) 329-0222",
-        "Website": "http://www.seaturtlehospital.org/"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -227,10 +214,7 @@
         "Website": "http://www.poplargrove.org/",
         "Family": "",
         "Zip": "",
-        "color": "purple",
-        "City": "Wilmington",
-        "Phone": "(910) 686-9518",
-        "Website": "http://www.poplargrove.org/"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -250,10 +234,7 @@
         "Website": "http://www.battleshipnc.com/",
         "Family": "",
         "Zip": "",
-        "color": "purple",
-        "City": "Wilmington",
-        "Phone": "(910)251-5797",
-        "Website": "http://www.battleshipnc.com/"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -273,10 +254,7 @@
         "Website": "http://www.ncaquariums.com/fort-fisher",
         "Family": "",
         "Zip": "",
-        "color": "purple",
-        "City": "Kure Beach",
-        "Phone": "(910)458-8257",
-        "Website": "http://www.ncaquariums.com/fort-fisher"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -296,10 +274,7 @@
         "Website": "http://www.nchistoricsites.org/fisher/fisher.htm",
         "Family": "",
         "Zip": "",
-        "color": "purple",
-        "City": "Kure Beach",
-        "Phone": "(910)458-5538",
-        "Website": "http://www.nchistoricsites.org/fisher/fisher.htm"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -319,10 +294,7 @@
         "Website": "http://topsailhistoricalsociety.org/",
         "Family": "",
         "Zip": "",
-        "color": "purple",
-        "City": "Topsail Beach",
-        "Phone": "(910)328-8663",
-        "Website": "http://topsailhistoricalsociety.org/"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -342,10 +314,7 @@
         "Website": "http://www.playwilmington.org/index/page/index/",
         "Family": "",
         "Zip": "",
-        "color": "purple",
-        "City": "Wilmington",
-        "Phone": "(910) 254-3534",
-        "Website": "http://www.playwilmington.org/index/page/index/"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -365,10 +334,7 @@
         "Website": "http://missilesandmoremuseum.org/",
         "Family": "",
         "Zip": "",
-        "color": "purple",
-        "City": "Topsail Beach",
-        "Phone": "(910)328-8663",
-        "Website": "http://missilesandmoremuseum.org/"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -388,10 +354,7 @@
         "Website": "http://capefearmuseum.com/",
         "Family": "",
         "Zip": "",
-        "color": "purple",
-        "City": "Wilmington",
-        "Phone": "(910) 798-4370",
-        "Website": "http://capefearmuseum.com/"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -411,10 +374,7 @@
         "Website": "http://www.wrrm.org/",
         "Family": "",
         "Zip": "",
-        "color": "purple",
-        "City": "Wilmington",
-        "Phone": "(910) 763-2634",
-        "Website": "http://www.wrrm.org/"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -433,10 +393,7 @@
         "Phone": "(910) 962-3000",
         "Website": "http://uncw.edu/",
         "Zip": "",
-        "color": "purple",
-        "City": "Wilmington",
-        "Phone": "(910) 962-3000",
-        "Website": "http://uncw.edu/"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -456,10 +413,7 @@
         "Website": "http://www.costco.com/",
         "Family": "",
         "Zip": "",
-        "color": "red",
-        "City": "Wilmington",
-        "Phone": "(910) 798-3252",
-        "Website": "http://www.costco.com/"
+        "color": "red"
       },
       "geometry": {
         "type": "Point",
@@ -479,9 +433,7 @@
         "Website": "http://www.costco.com/",
         "Family": "",
         "Zip": "",
-        "color": "red",
-        "City": "Raleigh",
-        "Phone": "(919) 755-2801",
+        "color": "red"
       },
       "geometry": {
         "type": "Point",
@@ -501,10 +453,7 @@
         "Website": "http://www.samsclub.com/sams/homepage.jsp",
         "Family": "",
         "Zip": "",
-        "color": "blue",
-        "City": "Wilmington",
-        "Phone": "(910) 799-9808",
-        "Website": "http://www.samsclub.com/sams/homepage.jsp"
+        "color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -524,10 +473,7 @@
         "Website": "http://www.samsclub.com/sams/homepage.jsp",
         "Family": "",
         "Zip": "",
-        "color": "blue",
-        "City": "Jacksonville",
-        "Phone": "(910) 346-2148",
-        "Website": "http://www.samsclub.com/sams/homepage.jsp"
+        "color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -547,10 +493,7 @@
         "Website": "http://www.visitcarolinabeachnc.com/things-to-do/carolina-beach-boardwalk",
         "Family": "",
         "Zip": "",
-        "color": "purple",
-        "City": "Carolina Beach",
-        "Phone": "(910) 458-8434",
-        "Website": "http://www.visitcarolinabeachnc.com/things-to-do/carolina-beach-boardwalk"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -570,10 +513,7 @@
         "Website": "",
         "Family": "",
         "Zip": "",
-        "color": "yellow",
-        "City": "Wilmington,",
-        "Phone": "(910) 791-2764",
-        "Website": ""
+        "color": "yellow"
       },
       "geometry": {
         "type": "Point",
@@ -594,10 +534,7 @@
         "Family": "",
         "Zip": "",
         "time": "",
-        "color": "yellow",
-        "City": "Wilmington,",
-        "Phone": "(910) 794-9650",
-        "Website": ""
+        "color": "yellow"
       },
       "geometry": {
         "type": "Point",
@@ -617,10 +554,7 @@
         "Website": "",
         "Family": "",
         "Zip": "",
-        "color": "yellow",
-        "City": "Jacksonville",
-        "Phone": "(910) 455-2025",
-        "Website": ""
+        "color": "yellow"
       },
       "geometry": {
         "type": "Point",
@@ -640,10 +574,7 @@
         "Website": "http://www.roadsideamerica.com/tip/9904",
         "Family": "",
         "Zip": "",
-        "color": "purple",
-        "City": "Surf City",
-        "Phone": "(910) 329-0241",
-        "Website": "http://www.roadsideamerica.com/tip/9904"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -663,10 +594,7 @@
         "Website": "http://www.roadsideamerica.com/tip/30533",
         "Family": "",
         "Zip": "",
-        "color": "purple",
-        "City": "Sneads Ferry",
-        "Phone": "(910) 327-1222",
-        "Website": "http://www.roadsideamerica.com/tip/30533"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
