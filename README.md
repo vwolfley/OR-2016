@@ -17,7 +17,7 @@ Building a Google map with geojson.
 `Maps` `Google` `GeoJSON`
 
 ### Site URL's
-* [Site] (http://vwolfley.github.io/)
+* [Site] (http://vwolfley.github.io/NC-Google.Map)
 
 ### Documentation
 

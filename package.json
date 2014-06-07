@@ -1,0 +1,19 @@
+{
+    "name" : "NC-Google.Map",
+    "version" : "0.2.0",
+    "author" : "Vern Wolfley",
+    "twitter": "@vernwolfley",
+    "url": "http://vwolfley.github.io/NC-Google.Map",
+    "private" : true,
+
+    "devDependencies" : {
+        "grunt" :                       "~0.4.4",
+        "grunt-contrib-cssmin":         "*",
+        "grunt-contrib-jshint":         "*",
+        "grunt-contrib-uglify":         "*",
+        "grunt-contrib-concat":         "*",
+        "grunt-contrib-watch":          "*",
+        "matchdep":                     "*",
+        "jshint-stylish-ex":            "*"
+    }
+}
