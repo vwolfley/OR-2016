@@ -167,6 +167,28 @@
     {
       "type": "Feature",
       "properties": {
+        "Name": "LDS Church",
+        "Ward": "Wilmington 1st Ward",
+        "Time": "11am",
+        "Address": "514 S College Rd",
+        "City": "Wilmington, NC",
+        "Zip": "28403-2807",
+        "Phone": "",
+        "Family": "",
+        "Website": "",
+        "color": "orange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7158796787262,
+          34.361717992490554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Name": "LDS Raleigh North Carolina Temple",
         "Address": "574 Bryan Dr",
         "City": "Apex, NC",
