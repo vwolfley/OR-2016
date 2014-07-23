@@ -645,6 +645,46 @@
           34.68418801060527
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Charlotte/Douglas International Airport (CLT)",
+        "Address": "5501 R C Josh Birmingham Pkwy",
+        "City": "Charlotte, NC",
+        "Phone": "",
+        "Website": "http://charmeck.org/city/charlotte/airport/Pages/default.aspx",
+        "Family": "",
+        "Zip": "28208",
+        "color": "pink"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.94305992126465,
+          35.214700560204385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Raleigh-Durham International Airport (RDU)",
+        "Address": "2400 John Brantley Blvd",
+        "City": "Morrisville, NC",
+        "Phone": "",
+        "Website": "http://www.rdu.com/",
+        "Family": "",
+        "Zip": "27560",
+        "color": "pink"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78720760345459,
+          35.880357596202984
+        ]
+      }
     }
   ]
 }
