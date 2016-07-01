@@ -28,3 +28,4 @@ Building a Google map with geojson.
 A detailed list of the changes and fixes in each version update can be found in the CHANGELOG.md.
 
 * [CHANGELOG] (CHANGELOG.md)
+
