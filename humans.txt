@@ -19,10 +19,10 @@
     Components: Google Javascript API v3.16, html5-boilerplate-4.3.0, Normalize.css, jQuery v1.11.0, Modernizr, Grunt
 
 # SITE
-    Site Name: NC Google Map
-    Site URL: http://vwolfley.github.io/NC-Google.Map/
+    Site Name: OR Google Map
+    Site URL: http://vwolfley.github.io/OR-2016/
     Version: 0.2.0
-    Last updated: 06/04/2014
+    Last updated: 07/01/2016
     Language: English
     Doctype: HTML5
     IDE: Sublime Text

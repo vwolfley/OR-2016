@@ -1,19 +1,40 @@
 {
-    "name" : "NC-Google.Map",
-    "version" : "0.2.0",
-    "author" : "Vern Wolfley",
+    "name": "OR-2016-Google.Map",
+    "version": "0.2.0",
+    "date": "07/01/2016",
+    "description": "Map showing the Sherwood 2016 Family Reunion",
+    "keywords": [
+        "OR",
+        "Oregon",
+        "Bend",
+        "2016",
+        "Family",
+        "Reunion"
+    ],
+    "main": "index.js",
+    "homepage": "http://vwolfley.github.io",
+    "author": "Vern Wolfley",
     "twitter": "@vernwolfley",
-    "url": "http://vwolfley.github.io/NC-Google.Map",
-    "private" : true,
-
-    "devDependencies" : {
-        "grunt" :                       "~0.4.4",
-        "grunt-contrib-cssmin":         "*",
-        "grunt-contrib-jshint":         "*",
-        "grunt-contrib-uglify":         "*",
-        "grunt-contrib-concat":         "*",
-        "grunt-contrib-watch":          "*",
-        "matchdep":                     "*",
-        "jshint-stylish-ex":            "*"
-    }
+    "contributors": [{
+        "name": "Vern Wolfley",
+        "twitter": "@vernwolfley",
+        "email": ""
+    }, {
+        "name": "",
+        "email": ""
+    }],
+    "private": true,
+    "dependencies": {},
+    "devDependencies": {
+        "grunt": "0.4.5",
+        "grunt-contrib-cssmin": "*",
+        "grunt-contrib-jshint": "*",
+        "grunt-contrib-uglify": "*",
+        "grunt-contrib-concat": "*",
+        "grunt-contrib-watch": "*",
+        "matchdep": "*",
+        "jshint-stylish-ex": "*",
+        "normalize.css": "*"
+    },
+    "license": "MIT"
 }

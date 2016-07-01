@@ -1,0 +1,144 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Greg & Nicole",
+        "Address": "202 SW Summer Lake Dr",
+        "City": "Bend, OR",
+        "Phone": 1,
+        "ZIP": 8,
+        "Website": "www",
+        "Color": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.31043434143066,
+          44.03854894519545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kim & Scott",
+        "Address": "139 SE Heyburn St",
+        "City": "Bend, OR",
+        "Phone": 1,
+        "ZIP": 8,
+        "Website": "www",
+        "Color": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.30167424678802,
+          44.04892156845045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kris & Owen",
+        "Address": "139 SE Heyburn St",
+        "City": "Bend, OR",
+        "Phone": 1,
+        "ZIP": 8,
+        "Website": "www",
+        "Color": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.30160987377167,
+          44.04892156845045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Koni & Ron",
+        "Address": "64120 O. B. Riley Rd",
+        "City": "Bend, OR",
+        "Phone": 1,
+        "ZIP": 8,
+        "Website": "oregonstateparks.org",
+        "Color": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.33072257041931,
+          44.12817546467605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LDS Church",
+        "Ward1": "Cascade Crest Ward",
+        "Time1": "9:00am",
+        "Ward2": "Mount Bachelor Ward",
+        "Time2": "11:00am",
+        "Address": "2555 NW Shevlin Park Rd",
+        "City": "Bend, OR",
+        "ZIP": "97701",
+        "Color": "Orange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.35429382324219,
+          44.06700569009573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LDS Church",
+        "Ward1": "Mountain View Ward",
+        "Time1": "10:00am",
+        "Ward2": "",
+        "Time2": "",
+        "Address": "1260 NE Thompson Dr",
+        "City": "Bend, OR",
+        "ZIP": "97701",
+        "Color": "Orange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.28734588623047,
+          44.07491069819786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LDS Church",
+        "Ward1": "",
+        "Time1": "",
+        "Ward2": "",
+        "Time2": "",
+        "Address": "20308 Cooley Rd",
+        "City": "Bend, OR",
+        "ZIP": "97701",
+        "Color": "Orange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.30970478057861,
+          44.10990589948528
+        ]
+      }
+    }
+  ]
+}

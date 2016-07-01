@@ -5,7 +5,7 @@ var map;
 function initialize() {
   var mapOptions = {
     zoom: 10,
-    center: new google.maps.LatLng(34.399, -77.755),
+    center: new google.maps.LatLng(44.079, -121.311),
     scaleControl: true,
     zoomControl: true,
     zoomControlOptions: {
@@ -23,7 +23,7 @@ function initialize() {
   map = new google.maps.Map(document.getElementById("map-canvas"), mapOptions);
 
   // Load a GeoJSON from the same server as our demo.
-  var jsonData = "data/ncVacationData.json";
+  var jsonData = "data/orVacationData.json";
   map.data.loadGeoJson(jsonData);
 
   // Add some style

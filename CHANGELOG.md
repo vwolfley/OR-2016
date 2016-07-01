@@ -1,10 +1,23 @@
-# CHANGELOG for NC Google Map
+# CHANGELOG #
+OR 2016 Google Map
 
 [![Semver](http://img.shields.io/SemVer/2.0.0.png)](http://semver.org/spec/v2.0.0.html)
 
-Major/Minor/Patch 0.0.0
+All notable changes to this project will be documented in this file.
 
-### Version 0.2.0 (06/06/2014)
+Releases will be numbered with the following format:
+
+**`<major>.<minor>.<patch>`**
+
+And constructed with the following guidelines:
+
+1. **MAJOR** version when you make incompatible API changes **bumps the major** resets minor and patch
+2. **MINOR** version when you add functionality in a backwards-compatible manner **bumps the minor** resets patch
+3. **PATCH** version when you make backwards-compatible bug fixes and misc changes **bumps only the patch**
+
+******************************************************************************************************
+
+## Version 0.2.0 | 06/06/2014
 
 * added banner
 * changed color of map markers
@@ -19,7 +32,7 @@ Major/Minor/Patch 0.0.0
 * added Grunt files
 * minified and uglified files
 
-### Version 0.1.0 (06/04/2014)
+## Version 0.1.0 | 06/04/2014
 
 * initial setup 06/04/2014
 
