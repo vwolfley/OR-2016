@@ -4,13 +4,15 @@
     {
       "type": "Feature",
       "properties": {
+        "Type": "Housing",
         "Name": "Greg & Nicole",
+        "LastName": "Sherwood",
         "Address": "202 SW Summer Lake Dr",
         "City": "Bend, OR",
         "Phone": 1,
         "ZIP": 8,
         "Website": "www",
-        "Color": "Green"
+        "Color": "green"
       },
       "geometry": {
         "type": "Point",
@@ -23,13 +25,15 @@
     {
       "type": "Feature",
       "properties": {
+        "Type": "Housing",
         "Name": "Kim & Scott",
+        "LastName": "Rapier",
         "Address": "139 SE Heyburn St",
         "City": "Bend, OR",
         "Phone": 1,
         "ZIP": 8,
         "Website": "www",
-        "Color": "Green"
+        "Color": "green"
       },
       "geometry": {
         "type": "Point",
@@ -42,13 +46,15 @@
     {
       "type": "Feature",
       "properties": {
+        "Type": "Housing",
         "Name": "Kris & Owen",
+        "LastName": "Allen",
         "Address": "139 SE Heyburn St",
         "City": "Bend, OR",
         "Phone": 1,
         "ZIP": 8,
         "Website": "www",
-        "Color": "Green"
+        "Color": "green"
       },
       "geometry": {
         "type": "Point",
@@ -61,13 +67,36 @@
     {
       "type": "Feature",
       "properties": {
+        "Type": "Housing",
+        "Name": "Kari & Bryant",
+        "LastName": "Rockwood",
+        "Address": "139 SE Heyburn St",
+        "City": "Bend, OR",
+        "Phone": 1,
+        "ZIP": 8,
+        "Website": "www",
+        "Color": "green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.30160987377167,
+          44.04892156845045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Housing",
         "Name": "Koni & Ron",
+        "LastName": "Smith",
         "Address": "64120 O. B. Riley Rd",
         "City": "Bend, OR",
         "Phone": 1,
         "ZIP": 8,
         "Website": "oregonstateparks.org",
-        "Color": "Green"
+        "Color": "green"
       },
       "geometry": {
         "type": "Point",
@@ -80,6 +109,91 @@
     {
       "type": "Feature",
       "properties": {
+        "Type": "Housing",
+        "Name": "Rob & Jill",
+        "LastName": "Sherwood",
+        "Address": "234 SW 34th Ln",
+        "City": "Redmond, OR",
+        "Phone": 1,
+        "ZIP": 8,
+        "Website": "www",
+        "Color": "green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.20809197425842,
+          44.27533081923051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Housing",
+        "Name": "Grandmom & Granddad",
+        "LastName": "Sherwood",
+        "Address": "234 SW 34th Ln",
+        "City": "Redmond, OR",
+        "Phone": 1,
+        "ZIP": 8,
+        "Website": "www",
+        "Color": "green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.20809197425842,
+          44.27533081923051
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "Type": "Housing",
+        "Name": "Kindy & Vern",
+        "LastName": "Wolfley",
+        "Address": "42 NW Hawthorne Ave",
+        "City": "Bend, OR",
+        "Phone": 1,
+        "ZIP": 8,
+        "Website": "www",
+        "Color": "green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.30809277296066,
+          44.058157072731014
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "Type": "Housing",
+        "Name": "Jeff & Heather",
+        "LastName": "Sherwood",
+        "Address": "42 NW Hawthorne Ave",
+        "City": "Bend, OR",
+        "Phone": 1,
+        "ZIP": 8,
+        "Website": "www",
+        "Color": "green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.30809277296066,
+          44.058157072731014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Church",
         "Name": "LDS Church",
         "Ward1": "Cascade Crest Ward",
         "Time1": "9:00am",
@@ -88,7 +202,7 @@
         "Address": "2555 NW Shevlin Park Rd",
         "City": "Bend, OR",
         "ZIP": "97701",
-        "Color": "Orange"
+        "Color": "orange"
       },
       "geometry": {
         "type": "Point",
@@ -101,6 +215,7 @@
     {
       "type": "Feature",
       "properties": {
+        "Type": "Church",
         "Name": "LDS Church",
         "Ward1": "Mountain View Ward",
         "Time1": "10:00am",
@@ -109,7 +224,7 @@
         "Address": "1260 NE Thompson Dr",
         "City": "Bend, OR",
         "ZIP": "97701",
-        "Color": "Orange"
+        "Color": "orange"
       },
       "geometry": {
         "type": "Point",
@@ -122,6 +237,7 @@
     {
       "type": "Feature",
       "properties": {
+        "Type": "Church",
         "Name": "LDS Church",
         "Ward1": "",
         "Time1": "",
@@ -130,7 +246,7 @@
         "Address": "20308 Cooley Rd",
         "City": "Bend, OR",
         "ZIP": "97701",
-        "Color": "Orange"
+        "Color": "orange"
       },
       "geometry": {
         "type": "Point",
@@ -139,6 +255,99 @@
           44.10990589948528
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Church",
+        "Name": "Medford Oregon Temple",
+        "Address": "3900 Grand Rd",
+        "City": "Central Point, OR",
+        "ZIP": "97502",
+        "Color": "blue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9326531291008,
+          42.373294209413785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Shopping",
+        "Name": "Costco",
+        "Address": "2500 NE Hwy 20",
+        "City": "Bend, OR",
+        "ZIP": "97701",
+        "Color": "purple"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2676477432251,
+          44.05755375355734
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "Type": "Tourist Attraction",
+        "Name": "Crater Lake National Park",
+        "Address": "",
+        "City": "Oregon",
+        "ZIP": "",
+        "Color": "yellow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.16878414154051,
+          42.868981899981655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Tourist Attraction",
+        "Name": "Lava River Cave",
+        "Address": "",
+        "City": "Oregon",
+        "ZIP": "",
+        "Color": "yellow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.36995792388917,
+          43.895263810784364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Tourist Attraction",
+        "Name": "High Desert Museum",
+        "Address": "59800 South Highway 97",
+        "City": "Bend, OR",
+        "ZIP": "97702",
+        "Phone": "(541) 382-4754",
+        "www": "highdesertmuseum.org",
+        "Color": "yellow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.34159088134764,
+          43.96590131454588
+        ]
+      }
     }
+
   ]
 }
