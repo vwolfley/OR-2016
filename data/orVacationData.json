@@ -9,9 +9,9 @@
         "LastName": "Sherwood",
         "Address": "202 SW Summer Lake Dr",
         "City": "Bend, OR",
-        "Phone": 1,
-        "ZIP": 8,
-        "Website": "www",
+        "Phone": "",
+        "ZIP": "",
+        "Website": "",
         "color": "green"
       },
       "geometry": {
@@ -30,9 +30,9 @@
         "LastName": "Rapier",
         "Address": "139 SE Heyburn St",
         "City": "Bend, OR",
-        "Phone": 1,
-        "ZIP": 8,
-        "Website": "www",
+        "Phone": "",
+        "ZIP": "",
+        "Website": "",
         "color": "green"
       },
       "geometry": {
@@ -51,9 +51,9 @@
         "LastName": "Allen",
         "Address": "139 SE Heyburn St",
         "City": "Bend, OR",
-        "Phone": 1,
-        "ZIP": 8,
-        "Website": "www",
+        "Phone": "",
+        "ZIP": "",
+        "Website": "",
         "color": "green"
       },
       "geometry": {
@@ -72,9 +72,9 @@
         "LastName": "Rockwood",
         "Address": "139 SE Heyburn St",
         "City": "Bend, OR",
-        "Phone": 1,
-        "ZIP": 8,
-        "Website": "www",
+        "Phone": "",
+        "ZIP": "",
+        "Website": "",
         "color": "green"
       },
       "geometry": {
@@ -93,9 +93,9 @@
         "LastName": "Smith",
         "Address": "64120 O. B. Riley Rd",
         "City": "Bend, OR",
-        "Phone": 1,
-        "ZIP": 8,
-        "Website": "oregonstateparks.org",
+        "Phone": "",
+        "ZIP": "",
+        "Website": "http://oregonstateparks.org/",
         "color": "green"
       },
       "geometry": {
@@ -114,9 +114,9 @@
         "LastName": "Sherwood",
         "Address": "234 SW 34th Ln",
         "City": "Redmond, OR",
-        "Phone": 1,
-        "ZIP": 8,
-        "Website": "www",
+        "Phone": "",
+        "ZIP": "",
+        "Website": "",
         "color": "green"
       },
       "geometry": {
@@ -135,9 +135,9 @@
         "LastName": "Sherwood",
         "Address": "234 SW 34th Ln",
         "City": "Redmond, OR",
-        "Phone": 1,
-        "ZIP": 8,
-        "Website": "www",
+        "Phone": "",
+        "ZIP": "",
+        "Website": "",
         "color": "green"
       },
       "geometry": {
@@ -156,9 +156,9 @@
         "LastName": "Wolfley",
         "Address": "42 NW Hawthorne Ave",
         "City": "Bend, OR",
-        "Phone": 1,
-        "ZIP": 8,
-        "Website": "www",
+        "Phone": "",
+        "ZIP": "",
+        "Website": "",
         "color": "green"
       },
       "geometry": {
@@ -177,9 +177,9 @@
         "LastName": "Sherwood",
         "Address": "42 NW Hawthorne Ave",
         "City": "Bend, OR",
-        "Phone": 1,
-        "ZIP": 8,
-        "Website": "www",
+        "Phone": "",
+        "ZIP": "",
+        "Website": "",
         "color": "green"
       },
       "geometry": {
@@ -300,6 +300,7 @@
         "Address": "",
         "City": "Oregon",
         "ZIP": "",
+        "Website": "https://www.nps.gov/crla/index.htm",
         "color": "yellow"
       },
       "geometry": {
@@ -318,6 +319,7 @@
         "Address": "",
         "City": "Oregon",
         "ZIP": "",
+        "Website": "http://www.oregon.com/attractions/lava-river-cave",
         "color": "yellow"
       },
       "geometry": {
@@ -337,7 +339,7 @@
         "City": "Bend, OR",
         "ZIP": "97702",
         "Phone": "(541) 382-4754",
-        "www": "www.highdesertmuseum.org",
+        "Website": "http://www.highdesertmuseum.org/",
         "color": "yellow"
       },
       "geometry": {
@@ -357,7 +359,7 @@
         "City": "Prospect, OR",
         "ZIP": "",
         "Phone": "",
-        "www": "www.thecentralcascades.com",
+        "Website": "http://thecentralcascades.com/avenue-of-the-boulders/",
         "color": "yellow"
       },
       "geometry": {
@@ -377,7 +379,7 @@
         "City": "Grants Pass, OR",
         "ZIP": "97526",
         "Phone": "1-800-648-4874",
-        "www": "www.hellgate.com",
+        "Website": "http://hellgate.com/",
         "color": "yellow"
       },
       "geometry": {
