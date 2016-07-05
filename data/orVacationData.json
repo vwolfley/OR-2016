@@ -12,7 +12,7 @@
         "Phone": 1,
         "ZIP": 8,
         "Website": "www",
-        "Color": "green"
+        "color": "green"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +33,7 @@
         "Phone": 1,
         "ZIP": 8,
         "Website": "www",
-        "Color": "green"
+        "color": "green"
       },
       "geometry": {
         "type": "Point",
@@ -54,7 +54,7 @@
         "Phone": 1,
         "ZIP": 8,
         "Website": "www",
-        "Color": "green"
+        "color": "green"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +75,7 @@
         "Phone": 1,
         "ZIP": 8,
         "Website": "www",
-        "Color": "green"
+        "color": "green"
       },
       "geometry": {
         "type": "Point",
@@ -96,7 +96,7 @@
         "Phone": 1,
         "ZIP": 8,
         "Website": "oregonstateparks.org",
-        "Color": "green"
+        "color": "green"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +117,7 @@
         "Phone": 1,
         "ZIP": 8,
         "Website": "www",
-        "Color": "green"
+        "color": "green"
       },
       "geometry": {
         "type": "Point",
@@ -138,7 +138,7 @@
         "Phone": 1,
         "ZIP": 8,
         "Website": "www",
-        "Color": "green"
+        "color": "green"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +159,7 @@
         "Phone": 1,
         "ZIP": 8,
         "Website": "www",
-        "Color": "green"
+        "color": "green"
       },
       "geometry": {
         "type": "Point",
@@ -180,7 +180,7 @@
         "Phone": 1,
         "ZIP": 8,
         "Website": "www",
-        "Color": "green"
+        "color": "green"
       },
       "geometry": {
         "type": "Point",
@@ -202,7 +202,7 @@
         "Address": "2555 NW Shevlin Park Rd",
         "City": "Bend, OR",
         "ZIP": "97701",
-        "Color": "orange"
+        "color": "orange"
       },
       "geometry": {
         "type": "Point",
@@ -224,7 +224,7 @@
         "Address": "1260 NE Thompson Dr",
         "City": "Bend, OR",
         "ZIP": "97701",
-        "Color": "orange"
+        "color": "orange"
       },
       "geometry": {
         "type": "Point",
@@ -246,7 +246,7 @@
         "Address": "20308 Cooley Rd",
         "City": "Bend, OR",
         "ZIP": "97701",
-        "Color": "orange"
+        "color": "orange"
       },
       "geometry": {
         "type": "Point",
@@ -264,7 +264,7 @@
         "Address": "3900 Grand Rd",
         "City": "Central Point, OR",
         "ZIP": "97502",
-        "Color": "blue"
+        "color": "blue"
       },
       "geometry": {
         "type": "Point",
@@ -282,7 +282,7 @@
         "Address": "2500 NE Hwy 20",
         "City": "Bend, OR",
         "ZIP": "97701",
-        "Color": "purple"
+        "color": "purple"
       },
       "geometry": {
         "type": "Point",
@@ -300,7 +300,7 @@
         "Address": "",
         "City": "Oregon",
         "ZIP": "",
-        "Color": "yellow"
+        "color": "yellow"
       },
       "geometry": {
         "type": "Point",
@@ -318,7 +318,7 @@
         "Address": "",
         "City": "Oregon",
         "ZIP": "",
-        "Color": "yellow"
+        "color": "yellow"
       },
       "geometry": {
         "type": "Point",
@@ -338,7 +338,7 @@
         "ZIP": "97702",
         "Phone": "(541) 382-4754",
         "www": "highdesertmuseum.org",
-        "Color": "yellow"
+        "color": "yellow"
       },
       "geometry": {
         "type": "Point",
