@@ -337,7 +337,7 @@
         "City": "Bend, OR",
         "ZIP": "97702",
         "Phone": "(541) 382-4754",
-        "www": "highdesertmuseum.org",
+        "www": "www.highdesertmuseum.org",
         "color": "yellow"
       },
       "geometry": {
@@ -345,6 +345,46 @@
         "coordinates": [
           -121.34159088134764,
           43.96590131454588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Tourist Attraction",
+        "Name": "Avenue of the Boulders",
+        "Address": "Prospect State Park",
+        "City": "Prospect, OR",
+        "ZIP": "",
+        "Phone": "",
+        "www": "www.thecentralcascades.com",
+        "color": "yellow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.49558448791504,
+          42.74579882524612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Tourist Attraction",
+        "Name": "Rogue River Jetboat Excursions",
+        "Address": "966 SW 6th Street",
+        "City": "Grants Pass, OR",
+        "ZIP": "97526",
+        "Phone": "1-800-648-4874",
+        "www": "www.hellgate.com",
+        "color": "yellow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.33202600479125,
+          42.43161338523758
         ]
       }
     }
